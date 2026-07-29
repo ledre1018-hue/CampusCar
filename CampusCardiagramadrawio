@@ -1,0 +1,23 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="s74WHJKTECNODPoJQFrY">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1600" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e10" edge="1" parent="1" style="html=1;endArrow=none;startArrow=none;fontSize=11;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" value="0..1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180.07" y="40" />
+              <mxPoint x="300.07" y="40" />
+              <mxPoint x="300.07" y="-150" />
+              <mxPoint x="1040.07" y="-150" />
+              <mxPoint x="1040.07" y="480" />
+              <mxPoint x="935" y="480" />
+            </Array>
+            <mxPoint x="180" y="51" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
